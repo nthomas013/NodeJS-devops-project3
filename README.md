@@ -59,8 +59,9 @@ NodeJS-devops-project3
 │   └── canary-deployment.yml
 └── test
     └── app-test.js
+```
 
-Jenkins Pipeline Stages
+**Jenkins Pipeline Stages**
 
 Checkout Code
 
@@ -74,7 +75,7 @@ Docker Push
 
 Deploy to AWS EKS
 
-🚢 Kubernetes Deployment
+🚢 K**ubernetes Deployment**
 
 Application deployed using Deployment and Service
 
@@ -84,7 +85,7 @@ Canary deployment configuration included
 
 Application exposed on port 3000
 
-📊 Monitoring & Observability
+📊 **Monitoring & Observability**
 
 Prometheus
 
@@ -98,7 +99,7 @@ Visualizes CPU, memory, request rate, and latency
 
 Custom dashboards created for Node.js app
 
-🔍 Application Metrics
+🔍 **Application Metrics**
 
 The Node.js application exposes metrics at:
 
@@ -115,7 +116,7 @@ Event loop lag
 
 HTTP request counts
 
-✅ Prerequisites
+✅ **Prerequisites**
 
 AWS Account
 
@@ -127,7 +128,7 @@ Docker & Docker Hub account
 
 kubectl, AWS CLI configured
 
-🚀 How to Run
+🚀 **How to Run**
 
 Clone the repository
 
